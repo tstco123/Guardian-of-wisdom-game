@@ -1,14 +1,3 @@
-# Guardian-of-wisdom-game
-A game designed for kids to learn about 75 different good and selfish characters
-🏰 Ghaleb-e-Ghalb (قلب‌قلب) - Ethical Character Building System
-
-https://img.shields.io/badge/Python-3.8%2B-blue
-https://img.shields.io/badge/React-18.0%2B-61DAFB
-https://img.shields.io/badge/MongoDB-5.0%2B-47A248
-https://img.shields.io/badge/License-GPLv3-blue.svg
-
-A gamified ethical education system for children based on Islamic psychology and positive psychology principles.
-
 "Intellect and Ignorance are two armies at war within the human heart."
 — Hadith from Usul al-Kafi
 
